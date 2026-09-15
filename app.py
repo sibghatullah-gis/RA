@@ -286,7 +286,7 @@ if page == "Dashboard":
 
     st.caption(
         "Note: the country field mixes real countries with regions (e.g. 'Africa', 'SIDS'). "
-        "For a true geocoded map, clean that column first — a bar ranking avoids mis-plotting it."
+        
     )
 
 
